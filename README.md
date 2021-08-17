@@ -157,31 +157,6 @@ Aha! Now that Gru's found out which minion escaped him, he wants to find out wha
 
          </p></details>
 
-### reduce
-
-Sweet! Now that that's all sorted, Gru can just have some fun testing out the remaining array methods he wanted to learn, starting with `reduce`. Out of curiosity, he wants to know what the sum of all his minions' name lengths is. Use `reduce` to find out
-
--   First, using `map` create a separate array called `minionNameLengths` that maps out the minions' name lengths
-
-    -   <details><summary><strong>Expected output:</strong></summary><p>
-
-             ```js
-             // if you console logged minionNameLengths, you should get
-            [3, 5, 6, 4, 5, 4, 3, 4, 4]
-             ```
-
-           </p></details>
-
--   Use `reduce` to sum up the `minionNameLengths` array
-
-    -   <details><summary><strong>Expected output:</strong></summary><p>
-
-        ```js
-        // the sum should be 38
-        ```
-
-        </p></details>
-
 ### some
 
 Now Gru wants to test out the `some` method, so let's go ahead and do that a few times.
