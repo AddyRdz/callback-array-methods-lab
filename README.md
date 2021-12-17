@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-1. In your `sei/labs` folder, create an `callback-array-methods.js` file and do your work in that file. 
+1. In your `labs` folder, create an `callback-array-methods.js` file and do your work in that file. 
 2. Also create an `index.html` and link the `callback-array-methods.js` file in a `script` tag. 
 3. Launch your `index.html` file with Live Server and use `cmd` + `option` + `j` to open Dev Tools and see your Console. 
 
@@ -191,4 +191,4 @@ Great, now Gru has had some practice with array methods that require callbacks. 
 
 ---
 
-_Copyright 2018, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_
+_Copyright 2021, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_
